@@ -1,5 +1,6 @@
 pandas>=1.5.2,<1.6
-sklearn
+# sklearn
+scikit-learn>=1.2.0,<1.3
 numpy>=1.24.1,<1.25
 seaborn>=0.12.2,<0.13
 notebook>=6.5.2,<6.6
