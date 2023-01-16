@@ -1,7 +1,7 @@
 # RUPP-Data-Mining-Assignment
 This is final data mining assignment.
 
-## Create Python virtual environment:
+## Create Python virtual environment `venv`:
 - python -m venv venv
 
 ## To activate `venv`:
