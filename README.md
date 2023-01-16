@@ -6,7 +6,7 @@ This is final data mining assignment.
 
 ## To activate `venv`:
 - `Windows:` .\venv\Scripts\activate
-- `Linux:` source\Scripts\activate
+- `Linux:` source/Scripts/activate
 
 ## To install `requirements.txt`:
 - pip install -r requirements.txt
