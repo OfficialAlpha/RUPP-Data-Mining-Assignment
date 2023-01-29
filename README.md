@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
-- Make sure you activated `venv` before run.
+- Note: make sure you activated `venv` before run.
 
 ## Once installed, launch JupyterLab with:
 ```
