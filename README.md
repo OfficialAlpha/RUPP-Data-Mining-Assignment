@@ -4,6 +4,12 @@ This is final data mining assignment.
 ## This project run on:
 - Python 3.9.13
 
+## Install Python with Winget:
+```
+winget install -e --id Python.Python.3.9
+```
+- Note: make sure you upgraded `App Installer` from Microsoft Store.
+
 ## Create Python virtual environment `venv`:
 ```
 python -m venv venv
